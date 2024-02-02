@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "262718553971",
+    "project_id": "info-mat-f4d2a",
+    "storage_bucket": "info-mat-f4d2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262718553971:android:3e68a0888e8ead6c404f06",
+        "android_client_info": {
+          "package_name": "com.example.info_mat_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBoLhfuUMCyclcoNWUNtm_ZDv-kxXRpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
